@@ -1,0 +1,10 @@
+//---------------------------------------------------------------------------
+//
+// Name:        GRUPO3-ProyectoT9FINALApp.rc
+// Author:      UNKNOWN
+// Created:     08/01/2021 07:18:49 p.m.
+// Description: REQUIERE LIBRERIAS DE WXWIDGETS.
+//
+//---------------------------------------------------------------------------
+
+#include <wx/msw/wx.rc>
