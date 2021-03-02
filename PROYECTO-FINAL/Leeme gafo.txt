@@ -1,0 +1,5 @@
+Compilar este proyecto requiere WxWidgets. Busca en Google para que sepas qué es.
+
+Es una interfaz gráfica con un archivo implementado. Se basa en predecir texto utilizando T9 — Básicamente, el método de predicción de los teléfonos viejos.
+Si, por ejemplo, escribo "2665" dentro de la interfaz gráfica, me debería devolver resultados como "book" o "cool". 
+
